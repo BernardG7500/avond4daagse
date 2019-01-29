@@ -66,5 +66,7 @@
     <body>
         <h1>Welkom bij de avond vierdaagse</h1>
         U kunt zich hier inschrijven
+        <br>
+        Wilt u individueel of per school inschrijven?
     </body>
 </html>
